@@ -4,6 +4,6 @@
     "\\core",
     "\\DRF_API"
   ],
-  "SelectedNode": "\\DRF_API\\urls.py",
+  "SelectedNode": "\\core\\serializers.py",
   "PreviewInSolutionExplorer": false
 }
